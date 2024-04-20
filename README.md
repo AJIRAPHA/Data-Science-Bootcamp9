@@ -1,7 +1,7 @@
 # Data Science Bootcamp Bench
 I'm learning data science bootcamp
 
-##First Paet
+## First Paet
 1. spreadsheet
 2. SQL Database
 3. R Programming
@@ -9,6 +9,6 @@ I'm learning data science bootcamp
 5. Data Visualization
 
 
-##Second Part
+## Second Part
 1. State
 2. 
